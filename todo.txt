@@ -1,1 +1,2 @@
-Ik was gebleven bij CHAPTER 6.2.5 Uniqueness validation 
+Ik was gebleven bij CHAPTER 6.3 Adding a secure password
+
